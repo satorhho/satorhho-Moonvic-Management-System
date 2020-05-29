@@ -41,10 +41,6 @@ import java.sql.PreparedStatement;
 import static javafx.application.Application.launch;
 //NEW CODE
 
-/**
- *
- * @author John Luz
- */
 public class FINALLUZ extends Application {
     private Text ItemC = new Text("Item Code:");
     private Text Desc = new Text("Description:");
